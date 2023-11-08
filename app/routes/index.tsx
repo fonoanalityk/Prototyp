@@ -18,7 +18,7 @@ export default function Index() {
             </div>
             <div className="lg:pb-18 relative px-4 pt-16 pb-8 sm:px-6 sm:pt-24 sm:pb-14 lg:px-8 lg:pt-32">
               <h1 className="text-center text-3xl font-extrabold tracking-tight sm:text-3xl lg:text-3xl">
-                <span className="block uppercase text-grey-500 drop-shadow-md">
+                <span className="block uppercase text-white drop-shadow-md">
                   Beatmaking Stack (Creative Commons RadioMarket)  
                 </span>
               </h1>
@@ -26,7 +26,7 @@ export default function Index() {
                 Zaczeliśmy troszkę za wcześnie. 
                 <a href="https://www.facebook.com/groups/beatmaking.eu"> - Sprawdź grupę Facebook</a>
               </p>
-                 <p className="mx-auto mt-6 max-w-lg text-center text-xl text-yellow sm:max-w-md">
+                 <p className="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-md">
                 Comming Summer 2024</p>
               <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                 {user ? (
