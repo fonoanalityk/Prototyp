@@ -14,7 +14,7 @@ export default function Index() {
                 src="http://startitkbs.org/wp-content/uploads/elementor/thumbs/1508925598_1920792904-ohqb1wjpr856pon6cc9539hv5iet5g3a821cmwfeio.jpg"
                 alt="BTS playing on stage with the group leaving in action poses"
               />
-              <div className="absolute inset-0 bg-[color:rgba(255,0,0,0.6)] mix-blend-multiply" />
+              <div className="absolute inset-0 bg-[color:rgba(130,130,130,0.6)] mix-blend-multiply" />
             </div>
             <div className="lg:pb-18 relative px-4 pt-16 pb-8 sm:px-6 sm:pt-24 sm:pb-14 lg:px-8 lg:pt-32">
               <h1 className="text-center text-3xl font-extrabold tracking-tight sm:text-3xl lg:text-3xl">
