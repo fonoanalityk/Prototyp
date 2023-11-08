@@ -23,8 +23,8 @@ export default function Index() {
                 </span>
               </h1>
               <p className="mx-auto mt-6 max-w-lg text-center text-xl text-white sm:max-w-3xl">
-                Budowa strony jest wciąż planowana. <br>
-                <a href="https://www.facebook.com/groups/beatmaking.eu">Sprawdź grupę Facebook</a>
+                Zaczeliśmy troszkę za wcześnie. (Comming Summer 2024) <br>
+                <a href="https://www.facebook.com/groups/beatmaking.eu"> - Sprawdź grupę Facebook</a>
               </p>
               <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                 {user ? (
