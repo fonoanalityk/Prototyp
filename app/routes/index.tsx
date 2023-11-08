@@ -28,8 +28,8 @@ export default function Index() {
                    <a href="https://www.facebook.com/groups/beatmaking.eu"> - Sprawdź grupę Facebook</a>
                 </p>
        */}
-                 <p className="mx-auto mt-6 max-w-lg text-center text-xl sm:max-w-md">
-                Comming Soon (Summer 2024)</p>
+                 <p className="mx-auto mt-6 max-w-lg text-center text-white drop-shadow-md text-xl sm:max-w-md">
+                Comming Soon (Closer Summer 2024)</p>
               <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                 {user ? (
                   <Link
