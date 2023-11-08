@@ -29,7 +29,7 @@ export default function Index() {
                 </p>
        */}
                  <p className="mx-auto mt-6 max-w-lg text-center text-white drop-shadow-md text-xl sm:max-w-md">
-                Fantasize Comming Soon</p>
+                </p>
               <div className="mx-auto mt-10 max-w-sm sm:flex sm:max-w-none sm:justify-center">
                 {user ? (
                   <Link
